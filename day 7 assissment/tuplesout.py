@@ -1,4 +1,4 @@
-riginal_Tuple = [(1,2,3) , [1,2] , ['a' , 'hit' , 'less']]
+original_Tuple = [(1,2,3) , [1,2] , ['a' , 'hit' , 'less']]
 
 out = [x[0] for x in original_Tuple]
 
